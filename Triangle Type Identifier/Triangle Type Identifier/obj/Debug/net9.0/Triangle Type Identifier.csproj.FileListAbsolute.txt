@@ -1,0 +1,14 @@
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net9.0\Triangle Type Identifier.exe
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net9.0\Triangle Type Identifier.deps.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net9.0\Triangle Type Identifier.runtimeconfig.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net9.0\Triangle Type Identifier.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net9.0\Triangle Type Identifier.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net9.0\Triangle Type Identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net9.0\Triangle Type Identifier.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net9.0\Triangle Type Identifier.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net9.0\Triangle Type Identifier.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net9.0\Triangle Type Identifier.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net9.0\refint\Triangle Type Identifier.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net9.0\Triangle Type Identifier.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net9.0\Triangle Type Identifier.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment1-11358176\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net9.0\ref\Triangle Type Identifier.dll
